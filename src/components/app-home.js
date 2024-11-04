@@ -1,0 +1,1 @@
+// Componente de página principal
